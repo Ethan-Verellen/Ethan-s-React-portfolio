@@ -1,4 +1,4 @@
-import download from '../../../Assets/download/Resume.pdf'
+import download from '../../Assets/download/Resume.pdf'
 
 export default function Resume() {
   return (
