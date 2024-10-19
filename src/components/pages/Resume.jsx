@@ -55,6 +55,7 @@ A PWA that allows for the user to download all the <br></br>
 A Document of research into a Regex<br></br>
 A MongoDB Database of several tables<br></br>
 A React Portfolio currently in use<br></br>
+A group website with the ability to save amount of money saved and the total amount needed to fill up a room<br></br>
 </p>
     </div>
   );
