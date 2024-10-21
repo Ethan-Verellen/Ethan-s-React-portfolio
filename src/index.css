@@ -29,10 +29,19 @@
 #authimg {
     width: 15%;
     height: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #description {
-    padding-right: 30%;
+    padding-left: 8%;
+    padding-right: 10%;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
 }
 
 #navi {
