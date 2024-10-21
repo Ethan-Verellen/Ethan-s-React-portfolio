@@ -26,6 +26,13 @@ Arby’s, Canton MI| Canton Michigan<br></br>
 Crew Member| June 2021-August 2022 <br></br>
 	Primary focus on creating food in a safe and clean environment<br></br>
 	Secondary experience in communicating with customers<br></br><br></br>
+  
+
+Internship, Easter Michigan University| Ypsilanti Michigan<br></br>
+Web Designer| August-December 2024<br></br>
+Primary focus on making a website under EMU teacher<br></br>
+Assists with changes and updates as needed<br></br><br></br>
+
 
 Recognitions:<br></br>
 Eastern Michigan University Dean’s List: Fall 2022<br></br><br></br>
