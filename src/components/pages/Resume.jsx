@@ -37,7 +37,7 @@ Assists with changes and updates as needed<br></br><br></br>
 Recognitions:<br></br>
 Eastern Michigan University Dean’s List: Fall 2022<br></br><br></br>
 
-Projects:<br></br>
+<a href= "https://github.com/Ethan-Verellen" id='link'>Projects:</a><br></br>
 Editing videos and audio for a digital media class<br></br>
 Programming single and multi-page websites for multiple web design classes<br></br>
 Programing websites to send information and making forms in websites for web design classes<br></br>
