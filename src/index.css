@@ -50,11 +50,11 @@
 #title {
     margin-right: 1%;
 }
-#c1{
-    width: 15%;
+#c{
+    width: 90%;
     display: inline-block;
-    margin-left: 20%;
-    margin-top: 2%;
+    margin-left: 5%;
+    margin-top: 1%;
     text-align: center;
 }
 
@@ -69,4 +69,18 @@
     color: red;
     display: inline-block;
     margin-left: 1%;
+}
+
+#img{
+    width: 20%;
+    float: left;
+}
+
+#text{
+    padding-left: 22%;
+    padding-right: 10%;
+}
+
+#right{
+    float: right;
 }
