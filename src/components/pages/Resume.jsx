@@ -5,37 +5,35 @@ export default function Resume() {
     <div id="mb">
       <h1>Resume Page</h1>
       <a href={download} download="download" id='link'>Click here to download my Resume</a><br></br><br></br>
+      <h4>My Education</h4>
+      <p><b>Michigan State University, East Lansing MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	March 2024 – October 2024</b></p>
+      <p>Boot camp curriculum designed with the most-in demand market requirements designed for specialized skills as a software developer.</p> <br></br>
+      <p><b>Eastern Michigan University, Ypsilanti MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;  January 2022 – December 2024</b></p>
+      <p>Bachelor of Science in Communication Technology with a Focus on Information Management. Deans list.  </p> 
+      <p>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
+      <p><b>Schoolcraft College, Livonia MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2019 – December 2021</b></p>
+      <p>Completed Michigan Transfer Agreement requirements in addition to 18 credits in Computer Science and Computer Information Systems. Deans List.</p> 
+      <p>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
+      <p><b>Salem High School, Canton MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2018 – May 2020</b></p>
+      <p>Completed two years of High School education including two pre-AP (Honors) classes and two AP classes. Dual-enrolled student during my senior year.</p> 
+      <p>3.45 unweighted GPA</p><br></br>
       <h4>My skills include:</h4>
-      <ul>HTML</ul>
-      <ul>CSS</ul>
-      <ul>JavaScript</ul>
-      <ul>Python</ul>
-      <ul>Bootstrap</ul>
-      <ul>Hypertext Preprocessor</ul>
-      <ul>API’s</ul>
-      <ul></ul>
-      <ul>NodeJs</ul>
-      <ul>SQL</ul>
-      <ul>Nosql</ul>
-      <ul>PWA</ul>
-      <ul>React</ul>
-      <ul>Apollo</ul><br></br>
+      <b>Web Design:</b> HTML, CSS, JavaScript, Python, Bootstrap, Hypertext Preprocessor, API’s, NodeJs, SQL,   Nosql, PWA, React, Apollo, InDesign,<br></br> Dreamweaver, VsCode, and Insomnia<br></br><br></br>
       <h4>Other Information:</h4><br></br>
-      <p>Job History:<br></br>
-Arby’s, Canton MI| Canton Michigan<br></br>
-Crew Member| June 2021-August 2022 <br></br>
-	Primary focus on creating food in a safe and clean environment<br></br>
-	Secondary experience in communicating with customers<br></br><br></br>
-  
+      <p>Job History:<br></br>  
 
 Internship, Eastern Michigan University| Ypsilanti Michigan<br></br>
 Web Designer| August-December 2024<br></br>
-Primary focus on making a website under EMU teacher<br></br>
-Assists with changes and updates as needed<br></br><br></br>
+Primary focus was on communication with customers to determine requirements, development interface and deployment of customer websites.<br></br>
+ Responsibilities included design, coding, testing, debugging, content management, layout and formatting to meet customer requirements. <br></br>
+ Assisted with changes, updates, improvement and technical support as needed. <br></br>
 
-
-Recognitions:<br></br>
-Eastern Michigan University Dean’s List: Fall 2022<br></br><br></br>
+Arby’s, Canton MI| Canton Michigan<br></br>
+Crew Member| June 2021-August 2022 <br></br>
+Responsible for working positions that contribute to enhancing the overall guest experience. Served guests by providing outstanding products <br></br>
+and service while enhancing the overall guest experience. Assisted others who were serving guests to enhance guest’s enjoyment. Operated in <br></br>
+accordance with established performance, profit and operating standards as set forth by the company’s operations standardization manual. I <br></br>
+was responsible for knowledge of and adherence to food safety guidelines including product tempering, cooking, holding and handling procedures. <br></br><br></br>
 
 <a href= "https://github.com/Ethan-Verellen" id='link'>Projects:</a><br></br>
 Editing videos and audio for a digital media class<br></br>
