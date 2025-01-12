@@ -84,3 +84,11 @@
 #right{
     float: right;
 }
+
+#res{
+  line-height: 200%;
+}
+
+#res2{
+  line-height: 100%;
+}

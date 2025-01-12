@@ -3,24 +3,24 @@ import download from '../../Assets/download/Resume.pdf'
 export default function Resume() {
   return (
     <div id="mb">
-      <h1>Resume Page</h1>
+      <h1 id="title" >Resume Page</h1>
       <a href={download} download="download" id='link'>Click here to download my Resume</a><br></br><br></br>
       <h4>My Education</h4>
-      <p><b>Michigan State University, East Lansing MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	March 2024 – October 2024</b></p>
-      <p>Boot camp curriculum designed with the most-in demand market requirements designed for specialized skills as a software developer.</p> <br></br>
-      <p><b>Eastern Michigan University, Ypsilanti MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;  January 2022 – December 2024</b></p>
-      <p>Bachelor of Science in Communication Technology with a Focus on Information Management. Deans list.  </p> 
-      <p>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
-      <p><b>Schoolcraft College, Livonia MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2019 – December 2021</b></p>
-      <p>Completed Michigan Transfer Agreement requirements in addition to 18 credits in Computer Science and Computer Information Systems. Deans List.</p> 
-      <p>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
-      <p><b>Salem High School, Canton MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2018 – May 2020</b></p>
-      <p>Completed two years of High School education including two pre-AP (Honors) classes and two AP classes. Dual-enrolled student during my senior year.</p> 
-      <p>3.45 unweighted GPA</p><br></br>
+      <p id='res2'><b>Michigan State University, East Lansing MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	March 2024 – October 2024</b></p>
+      <p id='res2'>Boot camp curriculum designed with the most-in demand market requirements designed for specialized skills as a software developer.</p> <br></br>
+      <p id='res2'><b>Eastern Michigan University, Ypsilanti MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;  January 2022 – December 2024</b></p>
+      <p id='res2'>Bachelor of Science in Communication Technology with a Focus on Information Management. Deans list.  </p> 
+      <p id='res2'>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
+      <p id='res2'><b>Schoolcraft College, Livonia MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2019 – December 2021</b></p>
+      <p id='res2'>Completed Michigan Transfer Agreement requirements in addition to 18 credits in Computer Science and Computer Information Systems. Deans List.</p> 
+      <p id='res2'>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
+      <p id='res2'><b>Salem High School, Canton MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2018 – May 2020</b></p>
+      <p id='res2'>Completed two years of High School education including two pre-AP (Honors) classes and two AP classes. Dual-enrolled student during my senior year.</p> 
+      <p id='res2'>3.45 unweighted GPA</p><br></br>
       <h4>My skills include:</h4>
-      <b>Web Design:</b> HTML, CSS, JavaScript, Python, Bootstrap, Hypertext Preprocessor, API’s, NodeJs, SQL,   Nosql, PWA, React, Apollo, InDesign,<br></br> Dreamweaver, VsCode, and Insomnia<br></br><br></br>
+      <p id='res'><b>Web Design:</b> HTML, CSS, JavaScript, Python, Bootstrap, Hypertext Preprocessor, API’s, NodeJs, SQL,   Nosql, PWA, React, Apollo, InDesign,<br></br> Dreamweaver, VsCode, and Insomnia<br></br><br></br></p>
       <h4>Other Information:</h4><br></br>
-      <p>Job History:<br></br>  
+      <p id='res'>Job History:<br></br>  
 
 Internship, Eastern Michigan University| Ypsilanti Michigan<br></br>
 Web Designer| August-December 2024<br></br>
