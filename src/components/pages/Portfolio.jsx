@@ -8,7 +8,7 @@ import employee from '../../Assets/images/Employee.png';
 export default function Portfolio() {
   return (
     <div id="mb">
-      <h1>Portfolio Page</h1>
+      <h1 id="title">Portfolio Page</h1>
       <p>
       </p>
       
