@@ -1,5 +1,5 @@
 #navigate{
-    background-color: black;
+    background-color: #1B7476;
     color: white;
     padding-bottom: 0%;
 }
@@ -7,7 +7,7 @@
     width: 100%;
     padding-left: 2%;
     margin-left: 0%;
-    background-color: rgb(126, 126, 126);
+    background-color: #003C3D;
     color: white;
     padding-bottom: 100%;
     padding-top: 0%;
@@ -17,7 +17,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: black;
+    background-color: #1B7476;
     color: white;
     text-align: center;
 }
