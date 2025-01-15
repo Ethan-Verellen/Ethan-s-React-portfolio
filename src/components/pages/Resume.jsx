@@ -13,7 +13,7 @@ export default function Resume() {
       <p id='res2'>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
       <p id='res2'><b>Schoolcraft College, Livonia MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2019 – December 2021</b></p>
       <p id='res2'>Completed Michigan Transfer Agreement requirements in addition to 18 credits in Computer Science and Computer Information Systems. Deans List.</p> 
-      <p id='res2'>Graduated Cum Laude with a 3.52 GPA.</p><br></br>
+      <p id='res2'>3.49 GPA prior to transfer to EMU</p><br></br>      
       <p id='res2'><b>Salem High School, Canton MI &ensp; &emsp; &emsp;&ensp; &emsp; &emsp;	September 2018 – May 2020</b></p>
       <p id='res2'>Completed two years of High School education including two pre-AP (Honors) classes and two AP classes. Dual-enrolled student during my senior year.</p> 
       <p id='res2'>3.45 unweighted GPA</p><br></br>
